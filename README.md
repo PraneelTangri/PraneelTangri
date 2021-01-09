@@ -1,4 +1,4 @@
-<img src="master/banner.jpg" height="30%" width="80%" style="display:block;margin:0px auto;">
+<img src="https://raw.githubusercontent.com/PraneelTangri/PraneelTangri/main/banner.JPG" height="50%" width="100%" style="display:block;margin:0px auto;">
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Praneel Tangri
 I am a Software and Web Developer. I make products with less features but with full perfection. Latest Language is my Primary Language. I use Windows in my Primary Desktop and MacOS in my Secondary Laptop.
